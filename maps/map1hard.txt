@@ -1,0 +1,30 @@
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                 HELP : H --> HARDWALL
+H            D    T          H                        S --> SOFTWALL
+H    HHH T HF        A       H                        A --> WALLS WITH AWARDS
+H F  HU    H  T       HHY    H                        T --> ENEMY MOVING TANK TYPE1
+H HH HHHH  H Y HHHHHHHHF  A  H                        Y --> ENEMY MOVING TANK TYPE2
+H TD HR H  H   G  HR    Y    H                        F --> ENEMY STABLE TANK
+HHH  S  H  HHHHT  H   FHHHHHHH                        G --> MINE
+HMY  H  H  HCG    H         UH                        U --> WEAPON UPGRADE
+H T  H  G TH    Y S     T Y  H                        R --> REPAIR
+H    F     HM     S         GH                        C --> CANNON REFILL
+HHHH   T   HHHHHHHH  T   HHHHH                        M --> MACHINEGUN REFILL
+HC S       HHHHHHHHF     S  MH                        E --> END OF GAME
+HM S    A  S   UHG      GHHHHH
+HHHHR   Y  S          T     RH
+HHHHHHHHHHHHHHHHHHHHHHA  HHHHH
+HHHHHHHHHHHHHHHHHHHHHHF  S U H
+H     T    Y     FHHHH   HHHHH
+HR         T         G   H C H
+HHHHHHHH     T    HHHHHHHH   H
+HM     SS    A   SS      F   H
+H      HHHHHHHHHHHH   H      H
+HG     F   Y     RH   H      H
+HHHHH         HHHHH   H   T  H
+H   G    T    HHHHH   HSSSHHHH
+H   HHH  HHH  H    Y  H      H
+H   HC     H  H    T     F   H
+H   S  T   S      H     GHHHHH
+HHHHH      H   T  HF     HH  E
+H      G      Y          SS  H
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
